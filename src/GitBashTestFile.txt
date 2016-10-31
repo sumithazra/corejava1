@@ -1,0 +1,4 @@
+**This is a  initial test file for Git bash testing**
+I created this file so that I can push this to the git repository 
+using Git Bash
+ 
