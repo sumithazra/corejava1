@@ -1,0 +1,7 @@
+package enumTest;
+
+ enum Day {
+	SUNDAY, MONDAY, TUESDAY, WEDNESDAY, THURSDAY, FRIDAY, SATURDAY
+
+
+}
